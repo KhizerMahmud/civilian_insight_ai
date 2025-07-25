@@ -1,4 +1,4 @@
-#Multimodal AI platform for civic issue reporting and prioritization using Hugging Face models
+# Multimodal AI platform for civic issue reporting and prioritization using Hugging Face models
 
 ## 📸 Application Preview
 <img width="1536" height="1024" alt="CivInsight pic" src="https://github.com/user-attachments/assets/e709573c-558c-4ff3-9919-ef4013e33918" />
